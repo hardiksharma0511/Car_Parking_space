@@ -1,4 +1,8 @@
-# 🚗 Car Parking Space Detection System 🚗
+# <h1 align="center">🚗 Car Parking Space Detection System 🚗</h1>
+<p align="center">
+  <img src="img.png" alt="Parking Lot Detection" width="500"/>
+</p>
+
 ## 🔍 Overview
 Welcome to the Car Parking Space Detection System! This project harnesses the power of OpenCV and Python to automatically detect free and occupied parking spaces in a video feed. By analyzing each frame, the system marks free spaces with green rectangles and occupied ones with red. Real-time updates show the number of available parking spaces, making it perfect for smart parking solutions!
 
