@@ -31,10 +31,10 @@ Clone or download the repository to your local machine to get started.
 2. Place the Video
 Ensure the carPark.mp4 video file is placed in the same directory as the project.
 
-3. Run the Script
+4. Run the Script
 Execute the script to begin detecting available parking spaces in the video.
 
-4. View the Output
+5. View the Output
 The parking lot video will display color-coded rectangles indicating free and occupied spaces, along with the count of free spaces.
 
 ## 🎯 Future Enhancements
